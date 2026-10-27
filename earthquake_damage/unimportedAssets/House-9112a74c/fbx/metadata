@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 2,
+		"createdAt": "",
+		"description": "<p>Old, rural house.</p><p></p><p>Check out my page for more content.</p><p></p><p></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/d9e4874e-e064-4ea0-816f-4d47de8e4a0f/e1ba24aa-20d4-4bb1-ad7d-e4a786ccc1b3.png",
+		"publishedAt": "2024-10-05T16:32:54.143110Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/3fe00b3d-9231-496a-8aa5-e744e884ecac/f04707ba-0b88-4353-9cc4-bc4c0ae50d06.png",
+		"title": "House",
+		"uid": "9112a74c-a770-44f6-ba5f-254f7049e826",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-fxucffntur779ck4rpu8s3gbmzdxfw/cover/c19eeb81.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-fxucffntur779ck4rpu8s3gbmzdxfw/profile/91856ac8.jpg",
+			"sellerName": "SpatialNeglect",
+			"uid": "cf174b37-5843-4859-b2fb-3491d837467d"
+		},
+		"tags": [
+			{
+				"name": "Small",
+				"slug": "small",
+				"uid": "1216efbc-030f-444f-a23a-09355000fd28"
+			},
+			{
+				"name": "Abandoned",
+				"slug": "abandoned",
+				"uid": "199ef196-d137-4006-ae52-12baa3f6b628"
+			},
+			{
+				"name": "Village",
+				"slug": "village",
+				"uid": "1a7e8ad9-5f17-4b0e-abf7-335cec8942d8"
+			},
+			{
+				"name": "Scene",
+				"slug": "scene",
+				"uid": "224caf73-4b7b-460a-8596-dadee162ddff"
+			},
+			{
+				"name": "Rural",
+				"slug": "rural",
+				"uid": "38048c85-e4e5-4e3d-a0c6-ec8dff3e5e00"
+			},
+			{
+				"name": "Dirty",
+				"slug": "dirty",
+				"uid": "54b617d2-d7e9-439d-9bd8-2787675a47e3"
+			},
+			{
+				"name": "Town",
+				"slug": "town",
+				"uid": "5ca41a7e-3b26-4bed-8a1b-9b57d9bc1456"
+			},
+			{
+				"name": "House",
+				"slug": "house",
+				"uid": "6596d504-e433-42e9-a760-b829827af869"
+			},
+			{
+				"name": "Europe",
+				"slug": "europe",
+				"uid": "94db35ed-0e1b-49da-b6ec-511b4ce44df4"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Urban",
+				"slug": "urban",
+				"uid": "a689898c-31ae-4d96-8b43-45002335d552"
+			},
+			{
+				"name": "Eastern",
+				"slug": "eastern",
+				"uid": "ce18fd24-b67b-4230-9d7e-f3c81b1647b2"
+			},
+			{
+				"name": "Architecture",
+				"slug": "architecture",
+				"uid": "cfb43d77-a91f-42ad-bd9d-b472c97d3f06"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			}
+		],
+		"category":
+		{
+			"name": "Residential Buildings",
+			"path": "buildings-architecture/residential-buildings",
+			"slug": "buildings-architecture--residential-buildings",
+			"uid": "97598d04-ae53-4ed0-a5d7-49140378ade8"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "61be2e44-7bd7-4430-b168-e64b504e9958",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "4c09ae49-9781-4275-9ded-9cecb90c61bf",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "61be2e44-7bd7-4430-b168-e64b504e9958",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

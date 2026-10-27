@@ -1,0 +1,169 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Sidewalk Pavement road way path floor slab paver tiles pile</p><p>photogrammetry scan (150x36MP), 4x8K textures </p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/5cca08b6-8559-444d-a24f-277254636efd/a570178a-40b8-4ad7-b3ac-d74a4a7ef8eb.jpeg",
+		"publishedAt": "2026-06-04T15:28:59.112707Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/edcb5113-af3c-43aa-9567-c6c57c938b12/eb822788-acbe-4b53-8838-042b6d1aed82.jpeg",
+		"title": "Pavement floor tiles pile",
+		"uid": "d83c7f40-b6f9-43d7-8489-f27f98f85f5a",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cqxwh9uluyz8xy3dpmkvcwtx6rl9jp/cover/229a826c.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cqxwh9uluyz8xy3dpmkvcwtx6rl9jp/profile/fe7747d4.jpg",
+			"sellerName": "matousekfoto",
+			"uid": "dcb48533-bc86-4454-9f30-bbe81796572d"
+		},
+		"tags": [
+			{
+				"name": "Street",
+				"slug": "street",
+				"uid": "1714b21a-573d-4d0e-aa60-faa1144f56e0"
+			},
+			{
+				"name": "Pavement",
+				"slug": "pavement",
+				"uid": "2e76fe98-2e8e-4fe1-9359-21b841733d10"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Tile",
+				"slug": "tile",
+				"uid": "61d5e94f-95b0-41aa-a1f7-582ff4c627d2"
+			},
+			{
+				"name": "Photorealistic",
+				"slug": "photorealistic",
+				"uid": "7485c72b-1f18-499f-8c65-0fdf1e2a21d0"
+			},
+			{
+				"name": "Concrete",
+				"slug": "concrete",
+				"uid": "9626f858-b7f1-4677-bd48-369c43eebbd1"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Sidewalk",
+				"slug": "sidewalk",
+				"uid": "98775fcb-3977-4d94-a46f-c45945f622af"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Pave",
+				"slug": "pave",
+				"uid": "b7af1e4e-3fa7-4936-9875-2901aefac6f5"
+			},
+			{
+				"name": "Paving",
+				"slug": "paving",
+				"uid": "c86eeb2e-7870-483e-81de-5d8a9538d535"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			},
+			{
+				"name": "Paver",
+				"slug": "paver",
+				"uid": "e6a1516e-3143-4322-893b-3775869c3855"
+			},
+			{
+				"name": "Slab",
+				"slug": "slab",
+				"uid": "f0c659aa-671d-4f22-9a38-ec2488127e77"
+			},
+			{
+				"name": "Roadblock",
+				"slug": "roadblock",
+				"uid": "fc1cb886-5b8f-40d0-a4ba-b493d7a56e0b"
+			}
+		],
+		"category":
+		{
+			"name": "Debris",
+			"path": "buildings-architecture/debris",
+			"slug": "buildings-architecture--debris",
+			"uid": "aa7f297b-fd1c-4a07-9e62-f928164ff9b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "96c849d5-83d9-4923-bfb6-90ddf5d39052",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "43c0e6ef-2878-44fb-9fb4-fbc0ee884335",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "96c849d5-83d9-4923-bfb6-90ddf5d39052",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

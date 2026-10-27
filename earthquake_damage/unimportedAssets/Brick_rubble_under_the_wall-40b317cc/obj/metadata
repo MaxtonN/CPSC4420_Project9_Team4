@@ -1,0 +1,169 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Brick rubble under the wall.</strong></p>\n<p>Model 3D created in RC from 266 images (sony a6000)</p>\n<p>Download version:</p>\n<p>FBX Triangles: 200 K Textures: 4x8192x8192u1v1 jpg + normal</p>\n<p>FBX Triangles: 1 mln Textures: 4x8192x8192u1v1 jpg + normal</p>\n<p>FBX Triangles: 10 mln Textures: 5x8192x8192u1v1 jpg + normal</p>\n<p>All normal maps generated from 3D model with 10 mln triangles.</p>\n<p><strong>If you like my work leave a like or comment and follow me for more! Thanks :)</strong></p>\n<p><span class=\"lazyload\"></span></p>\n<p><span class=\"lazyload\"></span></p>\n<p><span class=\"lazyload\"></span></p>\n<p>UE 5.1.1 - UNLIT\n<span class=\"lazyload\"></span></p>\n<p>UE 5.1.1 - LIT\n<span class=\"lazyload\"></span></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/2990cfd2-a159-4cbf-84b3-07fb9abcda83/edf79b06-ff7e-4909-8359-0c75dea18875.jpeg",
+		"publishedAt": "2024-10-04T17:10:54.777798Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/98dca478-60d2-4e4e-91ce-a912b74fd104/0ca1e744-c9fd-4631-829a-487d82318323.jpeg",
+		"title": "Brick rubble under the wall",
+		"uid": "40b317cc-f055-46df-b018-5e49e0144f1f",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-shnvktyyfyaacswfbg4nvh34d8y3zh/backgroundImage/blob-1920x540-45cb6c33ebde0f3bb748cfdb78ac14fa.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-shnvktyyfyaacswfbg4nvh34d8y3zh/profileImage/blob-500x500-dcab91acabba12e7e8facf14aab7b149.jpg",
+			"sellerName": "archiwum-xyz",
+			"uid": "619825d1-9e3b-417b-a5e5-780c5cc273a2"
+		},
+		"tags": [
+			{
+				"name": "Warehouse",
+				"slug": "warehouse",
+				"uid": "14fabac0-b646-4416-a0da-9f710846e623"
+			},
+			{
+				"name": "Abandoned",
+				"slug": "abandoned",
+				"uid": "199ef196-d137-4006-ae52-12baa3f6b628"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Renovation",
+				"slug": "renovation",
+				"uid": "4ef918e7-1270-4a52-82d6-52b12030abfb"
+			},
+			{
+				"name": "Damaged",
+				"slug": "damaged",
+				"uid": "540d9215-2e43-430b-9673-48b5300b894d"
+			},
+			{
+				"name": "Factory",
+				"slug": "factory",
+				"uid": "6ffdbb47-ce43-42e1-8f94-5a3f7fed279d"
+			},
+			{
+				"name": "Garbage",
+				"slug": "garbage",
+				"uid": "76506ff7-bbdc-4aec-9a1b-2691cc7536e6"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Destroyed",
+				"slug": "destroyed",
+				"uid": "9cc7eb58-8add-4d50-818e-e6c68412ecf2"
+			},
+			{
+				"name": "Brick",
+				"slug": "brick",
+				"uid": "b02f6883-1a6c-4d28-9621-d9632153a704"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Wall",
+				"slug": "wall",
+				"uid": "b138d7ed-637e-4c63-b1dd-2295e069f06f"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			},
+			{
+				"name": "Damage",
+				"slug": "damage",
+				"uid": "efa28a50-1e2a-4e83-8472-78c10a87fa30"
+			}
+		],
+		"category":
+		{
+			"name": "Debris",
+			"path": "buildings-architecture/debris",
+			"slug": "buildings-architecture--debris",
+			"uid": "aa7f297b-fd1c-4a07-9e62-f928164ff9b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "f6e9aecf-be98-4d45-a644-bb7e34403dea",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "obj",
+	"fileId": "c2cad91b-fa48-4372-9039-688929abcb70",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "f6e9aecf-be98-4d45-a644-bb7e34403dea",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

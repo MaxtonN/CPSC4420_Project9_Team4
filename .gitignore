@@ -1,10 +1,6 @@
-# Unreal Engine generated files
 **/Binaries/
 **/Intermediate/
 **/Saved/
 **/DerivedDataCache/
-
-# Other unnecessary files
 .DS_Store
-.vs/
-.idea/
+~$*

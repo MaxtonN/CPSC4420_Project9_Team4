@@ -1,0 +1,142 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Mixed bricks pile heap rubble waste with some other material </p>\n<p>photogrammetry scan (150x24MP), HD textures + HD Normals</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/69bef40f-cd8f-4895-b7fa-a93a64b79657/8d4a6872-3b41-4c44-818e-32d03575aa25.jpeg",
+		"publishedAt": "2024-12-28T21:37:28.773288Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/3d1558df-2c4f-45dd-98bd-b9b8562d8e96/59b8babc-70ec-4a65-aeea-2cc2d2c75828.jpeg",
+		"title": "Mixed brick pile heap",
+		"uid": "63258e0c-6912-4486-b83c-c81f66ef7f98",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/cover/820a4f3f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/profileImage/blob-500x500-f65270a676c5f200cf02bdf312715fbe.jpg",
+			"sellerName": "Axonite",
+			"uid": "663dc8c8-f7c8-4880-b3dc-9b30716108d8"
+		},
+		"tags": [
+			{
+				"name": "Junk",
+				"slug": "junk",
+				"uid": "2982c18e-d6b4-4112-b13f-f5e2110ea7e6"
+			},
+			{
+				"name": "Home",
+				"slug": "home",
+				"uid": "901cd72d-3193-480e-84f3-be1106297178"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Waste",
+				"slug": "waste",
+				"uid": "9ec0b449-6912-4b30-be02-9d1e6967af19"
+			},
+			{
+				"name": "Grunge",
+				"slug": "grunge",
+				"uid": "ac954825-7cee-4d92-b13f-ee07f0b1eee0"
+			},
+			{
+				"name": "Brick",
+				"slug": "brick",
+				"uid": "b02f6883-1a6c-4d28-9621-d9632153a704"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Wasteland",
+				"slug": "wasteland",
+				"uid": "b4ca2701-19c2-48f7-83be-c0bbee55951a"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			},
+			{
+				"name": "Stack",
+				"slug": "stack",
+				"uid": "e230d4d5-7434-447b-8dd3-d1c200fb8e07"
+			}
+		],
+		"category":
+		{
+			"name": "Apocalyptic / Post-apocalyptic",
+			"path": "environments/apocalyptic-post-apocalyptic",
+			"slug": "environments--apocalyptic-post-apocalyptic",
+			"uid": "a2d959d2-d366-405d-9734-15e045f9d14c"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "5cdae078-97c5-4ad8-b87b-2fabef74d359",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "2c7a7666-0115-4244-b635-256fefb5d569",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "5cdae078-97c5-4ad8-b87b-2fabef74d359",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

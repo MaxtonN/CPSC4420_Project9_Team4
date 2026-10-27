@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Debris from appartment reconstruction building work, ruin concrete bricks rubble heap with bike, ceramic sink, transport pallets</p>\n<p>photogrammetry scan (250x24MP), 3x16K textures + Normals from 4M tris</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/f6d648b9-b92b-43b3-b394-d37581dd048e/c004e6be-e8e7-4afd-8ac0-0d8b038229e3.jpeg",
+		"publishedAt": "2026-06-04T16:48:53.624449Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/c7386044-768b-4c4b-9856-33bb55123acd/209d9aba-1182-435a-a2de-be3dc5ea400d.jpeg",
+		"title": "Appartment debris",
+		"uid": "2c5a976f-3f6b-4a64-92d1-62af3c452b4d",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cqxwh9uluyz8xy3dpmkvcwtx6rl9jp/cover/229a826c.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cqxwh9uluyz8xy3dpmkvcwtx6rl9jp/profile/fe7747d4.jpg",
+			"sellerName": "matousekfoto",
+			"uid": "dcb48533-bc86-4454-9f30-bbe81796572d"
+		},
+		"tags": [
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Earthquake",
+				"slug": "earthquake",
+				"uid": "4dfdc562-abcb-4f11-81cf-d34b53fa8c11"
+			},
+			{
+				"name": "Town",
+				"slug": "town",
+				"uid": "5ca41a7e-3b26-4bed-8a1b-9b57d9bc1456"
+			},
+			{
+				"name": "House",
+				"slug": "house",
+				"uid": "6596d504-e433-42e9-a760-b829827af869"
+			},
+			{
+				"name": "Bomb",
+				"slug": "bomb",
+				"uid": "6fbe1f20-8594-4f02-805d-ab5d77926093"
+			},
+			{
+				"name": "War",
+				"slug": "war",
+				"uid": "8000c5ad-1f57-47fe-a305-ec5945d9906f"
+			},
+			{
+				"name": "Concrete",
+				"slug": "concrete",
+				"uid": "9626f858-b7f1-4677-bd48-369c43eebbd1"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Shattered",
+				"slug": "shattered",
+				"uid": "a0077de0-6fbe-4f81-bf7f-167e1d0d7058"
+			},
+			{
+				"name": "Flat",
+				"slug": "flat",
+				"uid": "a66b98c7-b6e6-4728-aa97-af89a2638a70"
+			},
+			{
+				"name": "Brick",
+				"slug": "brick",
+				"uid": "b02f6883-1a6c-4d28-9621-d9632153a704"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			},
+			{
+				"name": "City",
+				"slug": "city",
+				"uid": "f57a177e-d2a9-4a6c-96e2-818ae6681e77"
+			}
+		],
+		"category":
+		{
+			"name": "Debris",
+			"path": "buildings-architecture/debris",
+			"slug": "buildings-architecture--debris",
+			"uid": "aa7f297b-fd1c-4a07-9e62-f928164ff9b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "8fb8d309-8d74-4a3b-9315-68b9a8a2156f",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "711e4f11-f8e3-4991-a095-7aac7524a778",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "8fb8d309-8d74-4a3b-9315-68b9a8a2156f",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

@@ -1,0 +1,132 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 3.5,
+		"createdAt": "",
+		"description": "<p>Pile of dark brown construction dig digged soil mud land earth dirt heap pile mound, freshly dug, with some plants grass weed hay leftovers </p>\n<p>Photogrammetry scan 160x36MP, 8K textures + HD Normals</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/0fc21289-c5d5-4e78-8813-1747e19d4aff/5f9785b3-234c-4eca-b9e5-09e991c38bfc.jpeg",
+		"publishedAt": "2025-04-22T16:57:11.559554Z",
+		"reviewCount": 2,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/24a45f76-16cb-42bf-be79-f0f25da01cc6/60b67fdc-5285-4e68-ae6a-22b3f0d53937.jpeg",
+		"title": "Digged construction dirt",
+		"uid": "4fda323b-d2f6-4135-ba65-c82b958996df",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/cover/820a4f3f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/profileImage/blob-500x500-f65270a676c5f200cf02bdf312715fbe.jpg",
+			"sellerName": "Axonite",
+			"uid": "663dc8c8-f7c8-4880-b3dc-9b30716108d8"
+		},
+		"tags": [
+			{
+				"name": "Dig",
+				"slug": "dig",
+				"uid": "00be0ff3-8425-4cd8-ae8c-0d17f10f25c5"
+			},
+			{
+				"name": "Loam",
+				"slug": "loam",
+				"uid": "309aca4d-7ec1-4f7f-a258-0c99d0dc08fc"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Material",
+				"slug": "material",
+				"uid": "45ae8e5c-9cb3-474d-ae07-e3e151098dfa"
+			},
+			{
+				"name": "Pile",
+				"slug": "pile",
+				"uid": "5a563332-9137-4ae5-87b3-08ec8cc44014"
+			},
+			{
+				"name": "Dirt",
+				"slug": "dirt",
+				"uid": "afb8dbdd-8c6c-44d6-a69b-9197f4a84963"
+			},
+			{
+				"name": "Soil",
+				"slug": "soil",
+				"uid": "b0843123-1234-4993-870e-5f9e5a0d6c93"
+			},
+			{
+				"name": "Earth",
+				"slug": "earth",
+				"uid": "c056e1fe-ce65-408c-872d-957a46394c74"
+			},
+			{
+				"name": "Field",
+				"slug": "field",
+				"uid": "c64fe52b-90d3-4ace-baf7-f29fb0b37a86"
+			},
+			{
+				"name": "Farm",
+				"slug": "farm",
+				"uid": "d24304ec-e02e-44c8-a23d-126b9cd3c715"
+			}
+		],
+		"category":
+		{
+			"name": "Debris",
+			"path": "buildings-architecture/debris",
+			"slug": "buildings-architecture--debris",
+			"uid": "aa7f297b-fd1c-4a07-9e62-f928164ff9b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "66dac761-26ef-4602-aed5-27f12b93843b",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "813ff7a4-fed5-40fe-9d9b-0570f5d79cbb",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "66dac761-26ef-4602-aed5-27f12b93843b",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

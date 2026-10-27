@@ -1,0 +1,145 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Enhance your game environments with this high-quality, photorealistic trash and debris pile asset. Created using advanced photogrammetry, this model captures real-world details, textures, and geometry to bring authentic grit and realism to your urban, post-apocalyptic, or industrial scenes.</p><p>As a thank you to the community, this asset is 100% FREE! If you like this model, please check out my other high-quality photogrammetry assets here on Fab, or visit my Sketchfab profile to explore my library of raw scans and other models: <a target=\"_blank\" href=\"https://sketchfab.com/roxyjungle\" rel=\"noopener noreferrer nofollow\">https://sketchfab.com/roxyjungle</a></p><p>Features:</p><p>- Photogrammetric 3D scan for maximum realism</p><p>- Game-ready and optimized geometry</p><p>- High-resolution textures (Albedo/Diffuse, Normal, Roughness)</p><p>- Multiple formats included for easy integration (FBX, GLTF, GLB, USDZ)</p><p>Perfect for Unreal Engine, Unity, Blender, or any other 3D software. Download now and give your scene that extra layer of realistic detail!</p><p></p><p></p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "",
+		"publishedAt": "2026-09-07T11:15:11.472368Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/469cc398-80bf-42a3-9b61-44cc37b7638a/0afab7c8-810c-4513-80bd-48a84d76dbe9.jpg",
+		"title": "Urban Garbage and Debris - Game-Ready Scan",
+		"uid": "d4f9ac99-9246-4b91-b4ec-7a227fcbefb5",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-gmd345yt8z7bbthn9rnct3mw33zhuu/cover/4d23ab4f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-gmd345yt8z7bbthn9rnct3mw33zhuu/profileImage/blob-500x500-cce632d9ea54d878e33aa5ab16123032.jpg",
+			"sellerName": "Roxyjungle",
+			"uid": "e1e3ab58-0b55-4d88-a649-0e05a54e8cc8"
+		},
+		"tags": [
+			{
+				"name": "Postapocalyptic",
+				"slug": "postapocalyptic",
+				"uid": "0f89b929-9f95-43cf-8255-d9f5cf2139ad"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Trash",
+				"slug": "trash",
+				"uid": "5216be69-da8a-4a67-b2e6-8a79219603b2"
+			},
+			{
+				"name": "Gameready",
+				"slug": "gameready",
+				"uid": "6a250196-0821-43cb-b9cd-3975f235b88d"
+			},
+			{
+				"name": "Photorealistic",
+				"slug": "photorealistic",
+				"uid": "7485c72b-1f18-499f-8c65-0fdf1e2a21d0"
+			},
+			{
+				"name": "Garbage",
+				"slug": "garbage",
+				"uid": "76506ff7-bbdc-4aec-9a1b-2691cc7536e6"
+			},
+			{
+				"name": "Environment",
+				"slug": "environment",
+				"uid": "8c584304-8d10-44ca-8982-685cae643973"
+			},
+			{
+				"name": "Realistic",
+				"slug": "realistic",
+				"uid": "93b0d3f1-a96c-4d68-9d44-69a313519e32"
+			},
+			{
+				"name": "Waste",
+				"slug": "waste",
+				"uid": "9ec0b449-6912-4b30-be02-9d1e6967af19"
+			},
+			{
+				"name": "Urban",
+				"slug": "urban",
+				"uid": "a689898c-31ae-4d96-8b43-45002335d552"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Freebie",
+				"slug": "freebie",
+				"uid": "cfdf8396-1256-4069-b8ce-cb84b7409727"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			}
+		],
+		"category":
+		{
+			"name": "Apocalyptic / Post-apocalyptic",
+			"path": "environments/apocalyptic-post-apocalyptic",
+			"slug": "environments--apocalyptic-post-apocalyptic",
+			"uid": "a2d959d2-d366-405d-9734-15e045f9d14c"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "7a7bdd52-9720-4f86-8557-bffc991ceb63",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "ceeb0a40-e630-4882-ac8c-24848b54ffcd",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "7a7bdd52-9720-4f86-8557-bffc991ceb63",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

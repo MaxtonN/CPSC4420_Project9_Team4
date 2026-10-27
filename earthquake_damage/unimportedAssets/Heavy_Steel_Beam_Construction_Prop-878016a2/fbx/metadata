@@ -1,0 +1,198 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Heavy Steel Beam Construction Prop<br><br>A <strong>detailed rusty steel I-beam structural beam 3D model</strong>, designed with a weathered industrial metal appearance. The asset features a classic I-beam profile with realistic rust, oxidation, dark metal variation, and surface wear.</p><p>Ideal for <strong>construction sites, industrial environments, abandoned buildings, warehouses, bridges, factories, post-apocalyptic scenes, and architectural visualization</strong>.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/962b6f0c-4176-42e0-8bae-f232ea3a6deb/cdc41a00-06a7-40ef-9e7e-a9fba847699b.png",
+		"publishedAt": "2026-09-05T04:30:05.407544Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/de3ff39b-b594-4a1b-833b-953a53f1978a/07dd1a4b-332f-4c34-b767-a831b5e66c6a.png",
+		"title": "Heavy Steel Beam Construction Prop",
+		"uid": "878016a2-71bc-4e83-aad8-dcd4dd71fa28",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-p8svwc6hs499dhaxqmm2jczhxddve2/profile/c6cb2230.png",
+			"sellerName": "Deepanshu",
+			"uid": "e79c6bf8-c8dc-4368-ad84-c975cbc0f54f"
+		},
+		"tags": [
+			{
+				"name": "Metal",
+				"slug": "metal",
+				"uid": "55165238-19a2-4184-85f1-e8650bd2a38d"
+			},
+			{
+				"name": "Steel",
+				"slug": "steel",
+				"uid": "5bd69d4a-ba51-4523-ad8a-ec3b58a8b310"
+			},
+			{
+				"name": "Rusty",
+				"slug": "rusty",
+				"uid": "65c5e671-45b0-4ed5-a63d-4bcb6883a99d"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Household",
+				"slug": "household",
+				"uid": "9b3023be-0953-419c-a3a9-743bd3e951ac"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Scratched",
+				"slug": "scratched",
+				"uid": "c60e546c-bd74-4ec9-af9a-9b1802d66dd1"
+			},
+			{
+				"name": "Corroded",
+				"slug": "corroded",
+				"uid": "d29ac98c-2dc2-43f9-9aca-c48a0aeaffee"
+			},
+			{
+				"name": "Metallic",
+				"slug": "metallic",
+				"uid": "d5b82134-c49f-443e-8b37-7847c2bd3605"
+			},
+			{
+				"name": "Builder",
+				"slug": "builder",
+				"uid": "d938cdfe-e233-4440-a585-326756b28961"
+			},
+			{
+				"name": "Commercial",
+				"slug": "commercial",
+				"uid": "e92fcb1b-991f-4231-b0d9-0ca78450fdae"
+			},
+			{
+				"name": "Iron",
+				"slug": "iron",
+				"uid": "e9a104b1-11d4-4f6f-b459-652f4692414e"
+			},
+			{
+				"name": "Beam",
+				"slug": "beam",
+				"uid": "efc2d268-68b6-43ed-a7c2-3cf044ae54a3"
+			}
+		],
+		"category":
+		{
+			"name": "Beams",
+			"path": "buildings-architecture/components/beams",
+			"slug": "buildings-architecture--components--beams",
+			"uid": "adf8391d-80b1-49af-86b3-308701778eaf"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "USD",
+					"groupName": "3D Exchange Formats",
+					"code": "usd",
+					"icon": "cube",
+					"extensions": [
+						"usd"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLB",
+					"groupName": "3D Exchange Formats",
+					"code": "glb",
+					"icon": "cube",
+					"extensions": [
+						"glb"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "9a8fbefb-7645-432d-b6b2-77c232cd62f7",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

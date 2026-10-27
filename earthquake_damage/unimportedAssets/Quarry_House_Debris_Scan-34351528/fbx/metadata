@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Remains of a quarry house in North Wales. Raw scan with 8k diffuse map. Processed in Agisoft Metashape/Photoscan.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "",
+		"publishedAt": "2024-10-05T06:00:51.038532Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/dde97b9f-6543-46e1-97f1-aacb61a5f493/c494f847-74ea-4378-944c-412e88a7e173.jpeg",
+		"title": "Quarry House Debris Scan",
+		"uid": "34351528-44fd-4bac-baba-948d2ffcf46c",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "commonspence",
+			"uid": "74d8fd9e-2b90-44e0-b8e9-c630f5de1bb0"
+		},
+		"tags": [
+			{
+				"name": "Quarry",
+				"slug": "quarry",
+				"uid": "169c32af-f080-4619-93b1-2f3e39a3efea"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Slate",
+				"slug": "slate",
+				"uid": "4031aa68-3024-4f51-b822-cf80b84ac7b2"
+			},
+			{
+				"name": "Wales",
+				"slug": "wales",
+				"uid": "5e3abd3b-c340-4dcf-a1db-242b44503171"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			}
+		],
+		"category":
+		{
+			"name": "Debris",
+			"path": "buildings-architecture/debris",
+			"slug": "buildings-architecture--debris",
+			"uid": "aa7f297b-fd1c-4a07-9e62-f928164ff9b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "6d3f2586-f3d0-4457-82e5-af29787a310f",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "32390ea4-327f-4b2f-8d82-57a28acdd915",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "6d3f2586-f3d0-4457-82e5-af29787a310f",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

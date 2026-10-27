@@ -1,0 +1,112 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>A chain linked fence, and old rusted fence that is relitively reasonably priced to build and classic look.</p>\n<p>Made in Blender and Textured in Quixel Mixer</p>\n<p>Made for Unreal Engine 5</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/d31ed37c-007b-4680-ae05-869188b0e65d/ff2d6757-7a22-4aa8-9c23-fa216d12bdd0.jpeg",
+		"publishedAt": "2024-10-23T20:22:20.571744Z",
+		"reviewCount": 2,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/b5d41dde-bc07-4b7e-9c5b-f1ddd6a50dd1/a3cc73e4-53e5-4a63-ada6-1a46db754d2a.jpeg",
+		"title": "Chain Link Fence",
+		"uid": "bd43abe2-889a-4e8e-9ff0-a141dd0bf489",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "ashton3ddesigns",
+			"uid": "c7411c69-852a-49c3-84ba-71bea7fae890"
+		},
+		"tags": [
+			{
+				"name": "Link",
+				"slug": "link",
+				"uid": "0186a4b9-611f-4e2b-8721-6e015f7b0f5f"
+			},
+			{
+				"name": "Steel",
+				"slug": "steel",
+				"uid": "5bd69d4a-ba51-4523-ad8a-ec3b58a8b310"
+			},
+			{
+				"name": "Rusty",
+				"slug": "rusty",
+				"uid": "65c5e671-45b0-4ed5-a63d-4bcb6883a99d"
+			},
+			{
+				"name": "Pole",
+				"slug": "pole",
+				"uid": "9857c015-707f-49e0-8fa7-0cd8fb5f7338"
+			},
+			{
+				"name": "Chain",
+				"slug": "chain",
+				"uid": "b49707f1-ac5e-4143-bfa9-79ead260a640"
+			},
+			{
+				"name": "Fence",
+				"slug": "fence",
+				"uid": "dcb71319-e675-43bc-84e7-66abd8bbe63f"
+			}
+		],
+		"category":
+		{
+			"name": "Buildings & Architecture",
+			"path": "buildings-architecture",
+			"slug": "buildings-architecture",
+			"uid": "eec3bdd5-ba7a-45a8-b15d-67462b9630f6"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "2044afae-953b-4da7-876f-859c16f507b9",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "5a991b01-c403-4504-97af-d0c7829a45d2",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "2044afae-953b-4da7-876f-859c16f507b9",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

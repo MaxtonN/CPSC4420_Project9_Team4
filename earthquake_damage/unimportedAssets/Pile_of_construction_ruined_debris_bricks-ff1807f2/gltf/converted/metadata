@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Small Pile of old ruined construction material building debris red bricks heap mound stack</p>\n<p>photogrammetry scan (120x36mp), 2x8k textures + HD Normals</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/d36c1ed9-b242-4b0f-bfab-e4e8445145d4/18e2c29c-0342-40c5-bb76-284b3f17c1cb.jpeg",
+		"publishedAt": "2024-10-22T12:08:36.298170Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/3da12955-839f-471a-81e6-b03ae20310fe/c3c8b64c-3327-4447-ab28-f173ec5c85a5.jpeg",
+		"title": "Pile of construction ruined debris bricks",
+		"uid": "ff1807f2-3a60-4d8b-b2ed-388b487d38b5",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/cover/820a4f3f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-qk6q8x5xrzvmed4jk2zg2qb9pvnray/profileImage/blob-500x500-f65270a676c5f200cf02bdf312715fbe.jpg",
+			"sellerName": "Axonite",
+			"uid": "663dc8c8-f7c8-4880-b3dc-9b30716108d8"
+		},
+		"tags": [
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Stone",
+				"slug": "stone",
+				"uid": "3b7b9846-a26c-48e0-99e0-866350f162aa"
+			},
+			{
+				"name": "Pile",
+				"slug": "pile",
+				"uid": "5a563332-9137-4ae5-87b3-08ec8cc44014"
+			},
+			{
+				"name": "Construction",
+				"slug": "construction",
+				"uid": "976fe418-a5f3-479c-944e-bee5018213b0"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Destroyed",
+				"slug": "destroyed",
+				"uid": "9cc7eb58-8add-4d50-818e-e6c68412ecf2"
+			},
+			{
+				"name": "Waste",
+				"slug": "waste",
+				"uid": "9ec0b449-6912-4b30-be02-9d1e6967af19"
+			},
+			{
+				"name": "Mound",
+				"slug": "mound",
+				"uid": "ae4de6c4-2907-4268-9dfb-34eac7a3ee75"
+			},
+			{
+				"name": "Dirt",
+				"slug": "dirt",
+				"uid": "afb8dbdd-8c6c-44d6-a69b-9197f4a84963"
+			},
+			{
+				"name": "Brick",
+				"slug": "brick",
+				"uid": "b02f6883-1a6c-4d28-9621-d9632153a704"
+			},
+			{
+				"name": "Rubble",
+				"slug": "rubble",
+				"uid": "b0fadbd6-0d5b-49a1-a9b1-29b06be6d181"
+			},
+			{
+				"name": "Archviz",
+				"slug": "archviz",
+				"uid": "c161ec0f-94f9-4345-aff6-0008ff78d28c"
+			},
+			{
+				"name": "Ruin",
+				"slug": "ruin",
+				"uid": "d6f49c13-b481-4dd6-b32f-fef96826ab6c"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			},
+			{
+				"name": "Stack",
+				"slug": "stack",
+				"uid": "e230d4d5-7434-447b-8dd3-d1c200fb8e07"
+			}
+		],
+		"category":
+		{
+			"name": "Buildings & Architecture",
+			"path": "buildings-architecture",
+			"slug": "buildings-architecture",
+			"uid": "eec3bdd5-ba7a-45a8-b15d-67462b9630f6"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "8b0234a0-7274-4772-b061-7cf8be30b6b2",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.4",
+	"quality": "",
+	"format": "gltf",
+	"fileId": "6fc544cb-8e33-471c-a459-28e765587230",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "8b0234a0-7274-4772-b061-7cf8be30b6b2",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}
