@@ -96,3 +96,4 @@
 /earthquake_damage/unimportedAssets/Simple_Traffic_Light___Low_Poly___Free-cd7a76e3/fbx/simple_extracted/Simple/Traffic[[:space:]]Light[[:space:]]-[[:space:]]Simple.glb filter=lfs diff=lfs merge=lfs -text
 /earthquake_damage/unimportedAssets/Trees__2-f95c6c4b/fbx/trees-house-in-the-woods_extracted/source/trees[[:space:]]four[[:space:]]hous[[:space:]]uplode.fbx filter=lfs diff=lfs merge=lfs -text
 /earthquake_damage/unimportedAssets/Urban_Garbage_and_Debris_-_Game-Ready_Scan-d4f9ac99/fbx/trash1_extracted/trash1_UV_CLEAN.png filter=lfs diff=lfs merge=lfs -text
+earthquake_damage/Content/Earthquake[[:space:]]mats/*.jpg filter=lfs diff=lfs merge=lfs -text
